@@ -1,4 +1,4 @@
 # fashion
 
-#Used TailwindCSS
+# Used TailwindCSS
 live site: https://anantadebnath.github.io/fashion/
